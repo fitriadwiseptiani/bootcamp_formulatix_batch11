@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project-pertama", "project-pertama\project-pertama.csproj", "{A986578A-E5E4-4281-AF3A-30070D5267DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "composition", "composition\composition.csproj", "{F4ADAB0C-EFB4-414B-8CC8-285C1E9B386A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A986578A-E5E4-4281-AF3A-30070D5267DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A986578A-E5E4-4281-AF3A-30070D5267DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A986578A-E5E4-4281-AF3A-30070D5267DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A986578A-E5E4-4281-AF3A-30070D5267DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4ADAB0C-EFB4-414B-8CC8-285C1E9B386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ADAB0C-EFB4-414B-8CC8-285C1E9B386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ADAB0C-EFB4-414B-8CC8-285C1E9B386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ADAB0C-EFB4-414B-8CC8-285C1E9B386A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C811CEC-70B9-4482-81FC-A63832FA4F37}
+	EndGlobalSection
+EndGlobal

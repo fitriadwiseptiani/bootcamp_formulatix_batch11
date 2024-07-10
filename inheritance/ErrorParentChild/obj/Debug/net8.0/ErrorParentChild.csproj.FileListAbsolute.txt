@@ -1,0 +1,4 @@
+C:\Users\Batch 11\Desktop\Batch11\inheritance\ErrorParentChild\obj\Debug\net8.0\ErrorParentChild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\inheritance\ErrorParentChild\obj\Debug\net8.0\ErrorParentChild.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\inheritance\ErrorParentChild\obj\Debug\net8.0\ErrorParentChild.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\inheritance\ErrorParentChild\obj\Debug\net8.0\ErrorParentChild.csproj.CoreCompileInputs.cache

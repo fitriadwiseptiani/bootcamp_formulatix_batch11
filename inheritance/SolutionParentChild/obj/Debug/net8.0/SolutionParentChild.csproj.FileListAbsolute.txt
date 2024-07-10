@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\bin\Debug\net8.0\SolutionParentChild.exe
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\bin\Debug\net8.0\SolutionParentChild.deps.json
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\bin\Debug\net8.0\SolutionParentChild.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\bin\Debug\net8.0\SolutionParentChild.dll
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\bin\Debug\net8.0\SolutionParentChild.pdb
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.dll
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\refint\SolutionParentChild.dll
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.pdb
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\SolutionParentChild.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\inheritance\SolutionParentChild\obj\Debug\net8.0\ref\SolutionParentChild.dll
