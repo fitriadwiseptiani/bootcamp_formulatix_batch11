@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\contoh\bin\Debug\net8.0\contoh.exe
+C:\Users\Batch 11\Desktop\Batch11\contoh\bin\Debug\net8.0\contoh.deps.json
+C:\Users\Batch 11\Desktop\Batch11\contoh\bin\Debug\net8.0\contoh.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\contoh\bin\Debug\net8.0\contoh.dll
+C:\Users\Batch 11\Desktop\Batch11\contoh\bin\Debug\net8.0\contoh.pdb
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.dll
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\refint\contoh.dll
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.pdb
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\contoh.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\contoh\obj\Debug\net8.0\ref\contoh.dll
