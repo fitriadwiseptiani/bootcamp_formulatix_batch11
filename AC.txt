@@ -1,0 +1,16 @@
+1. kompresor
+jenis = torak, sentrifugal,rotary,scroll
+
+tipe = tertutup,setengah tertutup,terbuka
+brand =  kompresor ac bitzer, compressor ac bristol, copeland, kulthorn kirby, danfoss maneurop, panasonik matsushita, tecumseh, secop.
+2. kondensor
+media = air, Udara, evaporative
+aliran = single, double
+desain = seri, paralel
+3. evaporator
+jenis = plat fin, serpentine, drawn cube, 
+4. blower atau fan
+jenis = single, double
+
+5. refrigerant atau Freon
+jenis = R12, R22, R410a, R-32, R134a
