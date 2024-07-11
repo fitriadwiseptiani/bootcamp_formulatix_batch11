@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading", "overloading\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contohoverloading", "contohoverloading\contohoverloading.csproj", "{BBAEDDB0-267B-4C3F-8280-B2EB0BDAB090}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 4", "Day 4", "{DCA5CD32-E44E-4754-88C5-59C370AF3E57}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day4", "Day4", "{DCA5CD32-E44E-4754-88C5-59C370AF3E57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
