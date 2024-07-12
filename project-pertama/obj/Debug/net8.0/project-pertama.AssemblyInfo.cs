@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-pertama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75a5e730bb46a5db0f8083834f3e3023003189f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1959602e5635b4b1b820f0b6565d77d2e88ac5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-pertama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-pertama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

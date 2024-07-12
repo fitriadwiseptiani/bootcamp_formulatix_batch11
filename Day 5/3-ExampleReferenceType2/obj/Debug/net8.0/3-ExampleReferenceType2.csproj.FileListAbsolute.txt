@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\bin\Debug\net8.0\3-ExampleReferenceType2.exe
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\bin\Debug\net8.0\3-ExampleReferenceType2.deps.json
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\bin\Debug\net8.0\3-ExampleReferenceType2.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\bin\Debug\net8.0\3-ExampleReferenceType2.dll
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\bin\Debug\net8.0\3-ExampleReferenceType2.pdb
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.sourcelink.json
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.dll
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\refint\3-ExampleReferenceType2.dll
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.pdb
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\3-ExampleReferenceType2.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\3-ExampleReferenceType2\obj\Debug\net8.0\ref\3-ExampleReferenceType2.dll
