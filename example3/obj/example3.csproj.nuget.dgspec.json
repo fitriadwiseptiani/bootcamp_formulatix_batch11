@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch11\\example3\\example3.csproj": {}
+    "D:\\Formulatrix\\Bootcamp\\bootcamp_formulatix_batch11\\example3\\example3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch11\\example3\\example3.csproj": {
+    "D:\\Formulatrix\\Bootcamp\\bootcamp_formulatix_batch11\\example3\\example3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\example3\\example3.csproj",
+        "projectUniqueName": "D:\\Formulatrix\\Bootcamp\\bootcamp_formulatix_batch11\\example3\\example3.csproj",
         "projectName": "example3",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\example3\\example3.csproj",
-        "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\example3\\obj\\",
+        "projectPath": "D:\\Formulatrix\\Bootcamp\\bootcamp_formulatix_batch11\\example3\\example3.csproj",
+        "packagesPath": "C:\\Users\\Zeleama\\.nuget\\packages\\",
+        "outputPath": "D:\\Formulatrix\\Bootcamp\\bootcamp_formulatix_batch11\\example3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Zeleama\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
