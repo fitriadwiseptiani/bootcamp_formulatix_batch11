@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -68,6 +68,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Dynamic", "15-Dynamic\15-Dynamic.csproj", "{243D11F5-4365-40AD-9308-875E7C96FFB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Project", "Day 1\First Project\First Project.csproj", "{C38BF08A-7118-406F-A776-5E3C4DBA6873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Project-1", "1-Project-1\1-Project-1.csproj", "{2844938D-D74A-4E3B-AF99-14131055155D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{11BBCD4C-37B9-43A6-AF29-B90098499B86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,10 @@ Global
 		{C38BF08A-7118-406F-A776-5E3C4DBA6873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C38BF08A-7118-406F-A776-5E3C4DBA6873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C38BF08A-7118-406F-A776-5E3C4DBA6873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2844938D-D74A-4E3B-AF99-14131055155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2844938D-D74A-4E3B-AF99-14131055155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2844938D-D74A-4E3B-AF99-14131055155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2844938D-D74A-4E3B-AF99-14131055155D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -203,6 +211,7 @@ Global
 		SolutionGuid = {1C811CEC-70B9-4482-81FC-A63832FA4F37}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{2844938D-D74A-4E3B-AF99-14131055155D} = {11BBCD4C-37B9-43A6-AF29-B90098499B86}
 		{D45F69FD-B550-4567-8DD9-0F317085074F} = {C837314F-28E2-4CBD-91F4-30FE975217FC}
 		{55EEB777-87B4-4BB8-B6A0-BDE07CC90DD4} = {C837314F-28E2-4CBD-91F4-30FE975217FC}
 		{7573F43E-C251-4D58-9D79-1DF6B788ACB1} = {C837314F-28E2-4CBD-91F4-30FE975217FC}
