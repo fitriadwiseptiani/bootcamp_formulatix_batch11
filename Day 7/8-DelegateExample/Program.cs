@@ -7,7 +7,8 @@ class Program
 		Monkey monkey= new Monkey();
 		// dipanggil class dengan method yang ingin ditampilkan
 		MyZoo zoo = monkey.MakeSound;
-		zoo = monkey.Eat;
+		zoo += monkey.Eat;
+		zoo += monkey.Play;
 		zoo();
 	}
 }
@@ -28,5 +29,9 @@ class Monkey : Animal
 	public void Eat()
 	{
 		Console.WriteLine("Aku suka makan pisangg");
+	}
+	public void Play()
+	{
+		Console.WriteLine("Aku suka bermain dengan kamu");
 	}
 }
