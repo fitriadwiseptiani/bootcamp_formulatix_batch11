@@ -7,7 +7,7 @@ void Main()
 	int[] myArray = valuedata.Value();
 	if(!(myArray == null))
 	{
-		myArray[4].Dump();
+		Console.WriteLine(myArray[4]);
 	}
 	
 	Console.WriteLine("Program Finish");
