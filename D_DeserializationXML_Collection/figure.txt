@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure>
+    <Name>Upin</Name>
+    <Age>8</Age>
+    <Hobby>Play</Hobby>
+  </Figure>
+  <Figure>
+    <Name>Ipin</Name>
+    <Age>8</Age>
+    <Hobby>Eat</Hobby>
+  </Figure>
+  <Figure>
+    <Name>Kak Ros</Name>
+    <Age>19</Age>
+    <Hobby>Mad</Hobby>
+  </Figure>
+</ArrayOfFigure>
