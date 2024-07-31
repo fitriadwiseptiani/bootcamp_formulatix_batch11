@@ -2,10 +2,10 @@ namespace MonopolyGame;
 
 public class CardChance : ICard
 {
-    public int Id {get; private set;}
+	public int Id {get; private set;}
 	public string Description {get; private set;}
 	public TypeCard typeCard { get; private set;}
-    public ChanceCard ChanceCard { get; }
+	public ChanceCard ChanceCard { get; }
 	
 	public CardChance(int id, string description, ChanceCard chanceCard)
 	{
@@ -40,9 +40,12 @@ public class CardChance : ICard
 				break;
 			
 			case ChanceCard.GoBackThreeSquare:
-			game.MovePlayer(player, )
+			int back = game.board[]-3;
+			game.MovePlayer(player, game.Board[], null)
+			break;
 
 			case ChanceCard.AdvanceToIllinoisAvenue:
+			game.MovePlayer(player, game.)
 
 			case ChanceCard.AdvanceToStCharlesPlace:
 

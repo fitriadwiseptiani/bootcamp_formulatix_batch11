@@ -17,7 +17,7 @@ public class PlayerData
     public bool HaveAdvanceToGoCard(){
         // untuk mengetahuinya dari riwayat mendapatkan cardchance
         // periksa apakah pemain memiliki kartu "advance to go"
-        return CardChanceSave.Any(card.Chan);
+        return CardChanceSave.Any(card.AdvanceToGoCard);
     }
     public bool HaveJailFreeCard()
     {
@@ -25,10 +25,10 @@ public class PlayerData
     }
     public void AddBalance(decimal cash)
     {
-
+        Balance += cash;
     }
     public void DeductBalance(decimal cash)
     {
-
+        Balance -= cash;
     }
 }
