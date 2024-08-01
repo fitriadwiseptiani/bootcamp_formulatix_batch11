@@ -1,23 +1,18 @@
 namespace MonopolyGame;
 
-public class City
+public class City : Property
 {
-    public int Id {get; private set;}
-	public string Name {get; private set;}
-	public decimal Price {get; private set;}
-	public decimal Rent {get; private set;}
+	public List<City> listOfCities;
 	public IPlayer Owner {get; set;}
 	
-	public City(string name, decimal price, decimal rent)
+	public override bool Buy(IPlayer player, GameController game)
 	{
+		return true;
 	}
-	public bool EffecSquare(IPlayer player)
+	public override bool Rent(IPlayer player, GameController game)
 	{
+		return true;
 	}
-	public bool Buy(IPlayer player)
-	{
-	}
-	public bool Rent(IPlayer player)
-	{
-	}
+	
+	
 }

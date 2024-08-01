@@ -21,7 +21,7 @@ public class PlayerData
     }
     public bool HaveJailFreeCard()
     {
-        
+        return true;
     }
     public void AddBalance(decimal cash)
     {

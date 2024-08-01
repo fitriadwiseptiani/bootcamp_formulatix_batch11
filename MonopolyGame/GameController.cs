@@ -2,116 +2,116 @@ namespace MonopolyGame;
 
 public class GameController
 {
-    private readonly int _maxPlayer;
-    private int _numPlayer;
-    private IBoard _board;
-    private IDice _dice;
-    private Bank _bank;
-    private GameStatus _gameStatus;
-    private Dictionary<IPlayer, PlayerData> _player;
-    public List<IPlayer> turnToPlay;
-    public Action<IPlayer, ISquare, IDice> MovePlayer;
-    public Action<IPlayer, Property> BuyProperty;
-    public Action<IPlayer, Property> RentProperty;
-    public Action<IPlayer, ICard> HandleCard;
+	private readonly int _maxPlayer;
+	private int _numPlayer;
+	private IBoard _board;
+	private IDice _dice;
+	private GameStatus _gameStatus;
+	private Dictionary<IPlayer, PlayerData> _player;
+	public List<IPlayer> turnToPlay;
+	public Action<IPlayer, ISquare, IDice> MovePlayer;
+	public Action<IPlayer, Property> BuyProperty;
+	public Action<IPlayer, Property> RentProperty;
+	public Action<IPlayer, ICard> HandleCard;
 
 
-    public GameController(IBoard board, IDice dice, Bank bank, GameStatus gameStatus, int maxPlayer = 8)
-    {
-        _maxPlayer = maxPlayer;
-        _board = board;
-    }
-    public Board GetBoard()
-    {
-        return (Board)_board;
-    }
-    public bool Start(){
+	public GameController(IBoard board, IDice dice, Bank bank, GameStatus gameStatus, int maxPlayer = 8)
+	{
+		_maxPlayer = maxPlayer;
+		_board = board;
+	}
+	// public Board GetBoard()
+	// {
+	//     return (Board)_board;
+	// }
+	public bool Start(){
+		return _gameStatus == GameStatus.Play;
+	}
+	public bool End(){
+		return _gameStatus == GameStatus.End;
+	}
+	public SetGameStatus(GameStatus status){
+		_gameStatus = status;
+		
+	}
+	public GetGameStatus(){
 
-    }
-    public bool End(){
+	}
+	public bool SetNumPlayer(int numPlayer){
 
-    }
-    public SetGameStatus(GameStatus status){
+	}
+	public bool AddPlayer(IPlayer player){
 
-    }
-    public GetGameStatus(){
+	}
+	public IPlayer GetPlayer(int idPlayer){
 
-    }
-    public bool SetNumPlayer(int numPlayer){
+	}
+	public PlayerData GetPlayerData(IPlayer player){
+		return _player[player];
+	} 
+	public SetStartPlayerPosition(IBoard board, IPlayer player)
+	{
 
-    }
-    public bool AddPlayer(IPlayer player){
+	}
+	public SetTurnPlayer(List<IPlayer>)
+	{
 
-    }
-    public IPlayer GetPlayer(int idPlayer){
+	}
+	public bool StartTurn(){
 
-    }
-    public PlayerData GetPlayerData(IPlayer player){
+	}
+	public int RollDice()
+	{
 
-    } 
-    public SetStartPlayerPosition(IBoard board, IPlayer player)
-    {
+	}
+	public bool MovePlayer(IPlayer player, ISquare idSquare, IDice rollResult)
+	{
 
-    }
-    public SetTurnPlayer(List<IPlayer>)
-    {
+	}
+	public bool EndTurn()
+	{
 
-    }
-    public bool StartTurn(){
+	}
+	public bool ChangeTurnPlayer()
+	{
 
-    }
-    public int RollDice()
-    {
+	}
+	public bool HandleSquareEffect(IPlayer player, ISquare square)
+	{
 
-    }
-    public bool MovePlayer(IPlayer player, ISquare idSquare, IDice rollResult)
-    {
+	}
+	public bool HandleCardEffect(IPlayer player, ICard card)
+	{
 
-    }
-    public bool EndTurn()
-    {
+	}
+	public bool HandleGoToJail(IPlayer player)
+	{ 
 
-    }
-    public bool ChangeTurnPlayer()
-    {
+	}
+	public bool HandleGetOutJail(IPlayer player)
+	{
 
-    }
-    public bool HandleSquareEffect(IPlayer player, ISquare square)
-    {
+	}
+	public bool PayTax (IPlayer player, decimal amountOfMoney)
+	{
 
-    }
-    public bool HandleCardEffect(IPlayer player, ICard card)
-    {
+	}
+	public bool PayFee (IPlayer player, decimal amountOfMoney)
+	{
 
-    }
-    public bool HandleGoToJail(IPlayer player)
-    { 
+	}
+	public DeclareBankrupt()
+	{
 
-    }
-    public bool HandleGetOutJail(IPlayer player)
-    {
+	}
+	public CheckWinner()
+	{
 
-    }
-    public bool PayTax (IPlayer player, decimal amountOfMoney)
-    {
+	}
+	public ICard DrawCardChance(){
 
-    }
-    public bool PayFee (IPlayer player, decimal amountOfMoney)
-    {
+	}
+	public ICard DrawCardCommunity(){
 
-    }
-    public DeclareBankrupt()
-    {
-
-    }
-    public CheckWinner()
-    {
-
-    }
-    public ICard DrawCardChance(){
-
-    }
-    public ICard DrawCardCommunity(){
-
-    }
+	}
 }
