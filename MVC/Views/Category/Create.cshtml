@@ -1,0 +1,41 @@
+@model Category
+<h3><b>Create New Category</b></h3>
+@* TempData untuk menyimpan data sementara yang hanya exist untuk data atau halamn selanjutnua *@
+<br>@if (TempData["Success"] is not null) 
+{
+  <p>@TempData["Success"]</p>
+}
+@if (TempData["Error"] is not null) 
+{
+  <p>@TempData["Error"]</p>
+}
+<div aria-live="polite" aria-atomic="true" class="position-relative">
+  <!-- Position it: -->
+  <!-- - `.toast-container` for spacing between toasts -->
+  <!-- - `.position-absolute`, `top-0` & `end-0` to position the toasts in the upper right corner -->
+  <!-- - `.p-3` to prevent the toasts from sticking to the edge of the container  -->
+  <div class="toast-container position-absolute top-0 end-0 p-3">
+
+    <!-- Then put toasts within -->
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header">
+        <img src="..." class="rounded me-2" alt="...">
+        <strong class="me-auto">Bootstrap</strong>
+        <small class="text-muted">just now</small>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+      </div>
+      <div class="toast-body">
+        See? Just like this.
+      </div>
+    </div>
+  </div>
+</div>
+<form method="post">
+    <div class = "form-group">
+        <label asp-for="@Model.CategoryName">Category Name</label>
+        <input asp-for="@Model.CategoryName" type="text" class="form-control" placeholder="Enter Category Name"/>
+        <label asp-for="@Model.Description">Description</label>
+        <input asp-for="@Model.Description" type="text" class="form-control" placeholder="Enter Description"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

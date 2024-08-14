@@ -1,0 +1,14 @@
+@model Category
+<h3><b>Delete Category</b></h3>
+<br>
+<form method="post">
+    <div class = "form-group">
+        @* agar bisa update berdasarkan Id, akan tetapi disembunyika tampilannya *@
+        <input asp-for="@Model.CategoryId" type="text" class="form-control" hidden>
+        <label asp-for="@Model.CategoryName" for="disableTextInput" class="form-label">Category Name</label>
+        <input asp-for="@Model.CategoryName" type="text" id="disabledTextInput" class="form-control" readonly/>
+        <label asp-for="@Model.Description" for="disableTextInput" class="form-label">Description</label>
+        <input asp-for="@Model.Description" type="text" id="disabledTextInput" class="form-control" readonly/>
+    </div>
+    <button type="submit" class="btn btn-primary">Delete</button>
+</form>
