@@ -321,6 +321,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 36", "Day 36", "{659BBC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{885EF1DA-AAF2-4876-81D5-54AD92DF0E6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{0911E7F8-77F6-4948-BF9F-0180D8FE0C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIAndReact", "WebAPIAndReact\WebAPIAndReact.csproj", "{21CE1AF1-6E95-4882-B355-800F76244B24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -903,6 +907,14 @@ Global
 		{885EF1DA-AAF2-4876-81D5-54AD92DF0E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{885EF1DA-AAF2-4876-81D5-54AD92DF0E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{885EF1DA-AAF2-4876-81D5-54AD92DF0E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0911E7F8-77F6-4948-BF9F-0180D8FE0C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0911E7F8-77F6-4948-BF9F-0180D8FE0C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0911E7F8-77F6-4948-BF9F-0180D8FE0C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0911E7F8-77F6-4948-BF9F-0180D8FE0C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CE1AF1-6E95-4882-B355-800F76244B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CE1AF1-6E95-4882-B355-800F76244B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CE1AF1-6E95-4882-B355-800F76244B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CE1AF1-6E95-4882-B355-800F76244B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
