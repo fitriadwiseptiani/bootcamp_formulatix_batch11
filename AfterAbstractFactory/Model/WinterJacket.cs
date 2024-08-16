@@ -9,6 +9,6 @@ public class WinterJacket :IJacket
     public string Color { get; set; }
     public void Details()
     {
-        Console.WriteLine("Celana musim panas yang dirancang untuk memberikan kenyamanan maksimal di cuaca hangat. ");
+        Console.WriteLine("Jaket dilengkapi dengan penutup kepala yang dapat dilepas, kantong dalam yang aman, serta resleting tahan air, jaket ini adalah pilihan ideal untuk aktivitas luar ruangan maupun penggunaan sehari-hari di musim dingin");
     }
 }
