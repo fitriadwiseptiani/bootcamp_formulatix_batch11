@@ -1,0 +1,146 @@
+[
+    {
+        "_id": 2,
+        "_name": "Salvador",
+        "_price": 60,
+        "_rentPrice": 2
+    },
+    {
+        "_id": 4,
+        "_name": "Rio",
+        "_price": 60,
+        "_rentPrice": 4
+    },
+    {
+        "_id": 7,
+        "_name": "Tel Aviv",
+        "_price": 100,
+        "_rentPrice": 6
+    },
+    {
+        "_id": 9,
+        "_name": "Haifa",
+        "_price": 100,
+        "_rentPrice": 6
+    },
+    {
+        "_id": 10,
+        "_name": "Jerusalem",
+        "_price": 120,
+        "_rentPrice": 8
+    },
+    {
+        "_id": 12,
+        "_name": "Venice",
+        "_price": 140,
+        "_rentPrice": 10
+    },
+    {
+        "_id": 14,
+        "_name": "Milan",
+        "_price": 140,
+        "_rentPrice": 10
+    },
+    {
+        "_id": 15,
+        "_name": "Rome",
+        "_price": 160,
+        "_rentPrice": 12
+    },
+    {
+        "_id": 17,
+        "_name": "Frankfurt",
+        "_price": 180,
+        "_rentPrice": 14
+    },
+    {
+        "_id": 19,
+        "_name": "Munich",
+        "_price": 180,
+        "_rentPrice": 14
+    },
+    {
+        "_id": 20,
+        "_name": "Berlin",
+        "_price": 200,
+        "_rentPrice": 16
+    },
+    {
+        "_id": 22,
+        "_name": "Shenzhen",
+        "_price": 220,
+        "_rentPrice": 18
+    },
+    {
+        "_id": 24,
+        "_name": "Beijing",
+        "_price": 220,
+        "_rentPrice": 18
+    },
+    {
+        "_id": 25,
+        "_name": "Shanghai",
+        "_price": 240,
+        "_rentPrice": 20
+    },
+    {
+        "_id": 27,
+        "_name": "Lyon",
+        "_price": 260,
+        "_rentPrice": 22
+    },
+    {
+        "_id": 28,
+        "_name": "Toulouse",
+        "_price": 260,
+        "_rentPrice": 22
+    },
+    {
+        "_id": 27,
+        "_name": "Lyon",
+        "_price": 260,
+        "_rentPrice": 22
+    },
+    {
+        "_id": 28,
+        "_name": "Toulouse",
+        "_price": 260,
+        "_rentPrice": 22
+    },
+    {
+        "_id": 30,
+        "_name": "Paris",
+        "_price": 280,
+        "_rentPrice": 24
+    },
+    {
+        "_id": 32,
+        "_name": "Liverpool",
+        "_price": 300,
+        "_rentPrice": 26
+    },
+    {
+        "_id": 33,
+        "_name": "Manchester",
+        "_price": 300,
+        "_rentPrice": 26
+    },
+    {
+        "_id": 35,
+        "_name": "London",
+        "_price": 320,
+        "_rentPrice": 28
+    },
+    {
+        "_id": 38,
+        "_name": "San Francisco",
+        "_price": 350,
+        "_rentPrice": 35
+    },
+    {
+        "_id": 40,
+        "_name": "New York",
+        "_price": 400,
+        "_rentPrice": 50
+    }
+]
